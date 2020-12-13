@@ -2,7 +2,7 @@
 
 ~~正经人谁用Kde啊~~
 
-[官方telegram群组](https://t.mekde_isnt_mydesk)
+[官方telegram群组](https://t.me/kde_isnt_mydesk)
 
 Q:如何参与本项目
 
