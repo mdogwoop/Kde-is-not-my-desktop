@@ -2,6 +2,8 @@
 
 ~~正经人谁用Kde啊~~
 
+[官方telegram群组](https://t.mekde_isnt_mydesk)
+
 Q:如何参与本项目
 
 A:往仓库里投一张你使用其他桌面的照片即可
